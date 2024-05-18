@@ -30,98 +30,69 @@ export interface linkGroup {
 
 export const links: linkGroup[] = [
   {
-    "title": "Frequent Flyers",
-    "links": [
+    title: "Frequent Flyers",
+    links: [
       {
-        "label": "Youtube",
-        "value": "https://www.youtube.com"
+        label: "Youtube",
+        value: "https://www.youtube.com"
       },
       {
-        "label": "Hacker News",
-        "value": "https://news.ycombinator.com"
+        label: "Hacker News",
+        value: "https://news.ycombinator.com"
       },
       {
-        "label": "r/unix",
-        "value": "https://www.reddit.com/r/unixporn/"
+        label: "r/unix",
+        value: "https://www.reddit.com/r/unixporn/"
       },
       {
-        "label": "Amazon",
-        "value": "https://www.amazon.com"
+        label: "Amazon",
+        value: "https://www.amazon.com"
       },
       {
-        "label": "Github",
-        "value": "https://www.github.com"
+        label: "Github",
+        value: "https://www.github.com"
       }
     ]
   },
   {
-    "title": "Endeavors",
-    "links": [
+    title: "Endeavors",
+    links: [
       {
-        "label": "Gmail - Professional",
-        "value": "https://mail.google.com/mail/u/jwh686@gmail.com"
+        label: "Gmail - Professional",
+        value: "https://mail.google.com/mail/u/jwh686@gmail.com"
       },
       {
-        "label": "Gmail - Personal",
-        "value": "https://mail.google.com/mail/u/0/johnhunt686@gmail.com"
+        label: "Gmail - Personal",
+        value: "https://mail.google.com/mail/u/0/johnhunt686@gmail.com"
       },
       {
-        "label": "Gmail - Business",
-        "value": "https://mail.google.com/mail/u/huntmechsocial@gmail.com"
+        label: "Gmail - Business",
+        value: "https://mail.google.com/mail/u/huntmechsocial@gmail.com"
       },
       {
-        "label": "Hunt Mech",
-        "value": "https://sites.google.com/view/hunt-mechanical"
+        label: "Hunt Mech",
+        value: "https://sites.google.com/view/hunt-mechanical"
       }
     ]
   },
   {
-    "title": "Net Rscs",
-    "links": [
+    title: "Net Rscs",
+    links: [
       {
-        "label": "Free DNS",
-        "value": "https://freedns.afraid.org"
+        label: "Free DNS",
+        value: "https://freedns.afraid.org"
       },
       {
-        "label": "Router",
-        "value": "http://192.168.0.1"
+        label: "Router",
+        value: "http://192.168.0.1"
       },
       {
-        "label": "ProxMox",
-        "value": "http://192.168.0.19:8006"
+        label: "ProxMox",
+        value: "http://192.168.0.19:8006"
       },
       {
-        "label": "Home Assistant",
-        "value": "http://192.168.0.71:8123"
-      }
-    ]
-  },
-  {
-    "title": "Sauce",
-    "links": [
-      {
-        "label": "Pictures - DeathAndMilk",
-        "value": "https://www.instagram.com/deathandmilk_/"
-      },
-      {
-        "label": "Icons - FontAwesome",
-        "value": "https://fontawesome.com/icons"
-      },
-      {
-        "label": "Text Flicker - CodeMyUI",
-        "value": "https://codemyui.com/crt-screen-text-flicker-animation-in-pure-css/"
-      },
-      {
-        "label": "Wave Animation - mburakerman",
-        "value": "https://codepen.io/mburakerman/pen/eRZZEv"
-      },
-      {
-        "label": "Da real sauce ԅ(♡﹃♡ԅ)",
-        "value": "https://www.youtube.com/watch?v=qr89xoZyE1g"
-      },
-      {
-        "label": "Even more real sauce ( ͡° ͜ʖ ͡°)",
-        "value": "https://www.youtube.com/watch?v=VLhJOd_TFiI"
+        label: "Home Assistant",
+        value: "http://192.168.0.71:8123"
       }
     ]
   }
